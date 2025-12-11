@@ -8,26 +8,26 @@
 Основная цель — изучение и применение методов анализа и моделирования данных на реальных и тестовых наборах.
 Структура репозитория
 
-- data/ — исходные и обработанные наборы данных для экспериментов.
+- `data/` — исходные и обработанные наборы данных для экспериментов.
 
-- CleaningData.ipynb — пример предобработки и очистки данных.
+- `CleaningData.ipynb` — пример предобработки и очистки данных.
 
-- Clustering-DBSCAN.ipynb — кластеризация методом DBSCAN.
+- `Clustering-DBSCAN.ipynb` — кластеризация методом DBSCAN.
 
-- Clustering-Interpretation-KMeans.ipynb — кластеризация KMeans с интерпретацией.
+- `Clustering-Interpretation-KMeans.ipynb` — кластеризация KMeans с интерпретацией.
 
-- DecisionTree-SVM.ipynb — модели решающего дерева и метода опорных векторов.
+- `DecisionTree-SVM.ipynb` — модели решающего дерева и метода опорных векторов.
 
-- ExamPRO-DA-FARPOST.ipynb — проект или задание, связанное с изучением данных Farpost.
+- `ExamPRO-DA-FARPOST.ipynb` — проект или задание, связанное с изучением данных Farpost.
 
-- KMeans.ipynb — пример кластеризации KMeans.
+- `KMeans.ipynb` — пример кластеризации KMeans.
 
-- KNeighbors.ipynb — классификация с использованием K ближайших соседей.
+- `KNeighbors.ipynb` — классификация с использованием K ближайших соседей.
 
 - `LinearRegression.ipynb` — регрессия с линейной моделью.
 
-- RandomForest.ipynb — использование случайного леса.
+- `RandomForest.ipynb` — использование случайного леса.
 
-- Regularization-LinearRegression.ipynb — линейная регрессия с регуляризацией.
+- `Regularization-LinearRegression.ipynb` — линейная регрессия с регуляризацией.
 
-- Support-Vector-Method.ipynb — методы опорных векторов (SVM).
+- `Support-Vector-Method.ipynb` — методы опорных векторов (SVM).

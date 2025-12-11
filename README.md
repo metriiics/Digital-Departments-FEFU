@@ -14,17 +14,17 @@
 
 - `data/` — исходные и обработанные наборы данных для экспериментов.
 
-- `CleaningData.ipynb` — пример предобработки и очистки данных.
+- `CleaningData.ipynb` — работы по предобработки и очистки данных.
 
 - `Clustering-DBSCAN.ipynb` — кластеризация методом DBSCAN.
 
-- `Clustering-Interpretation-KMeans.ipynb` — кластеризация KMeans с интерпретацией.
+- `Clustering-Interpretation-KMeans.ipynb` — кластеризация KMeans с интерпретацией для бизнеса.
 
 - `DecisionTree-SVM.ipynb` — модели решающего дерева и метода опорных векторов.
 
-- `ExamPRO-DA-FARPOST.ipynb` — проект или задание, связанное с изучением данных Farpost.
+- `ExamPRO-DA-FARPOST.ipynb` — бизнес исследование для компании Farpost.
 
-- `KMeans.ipynb` — пример кластеризации KMeans.
+- `KMeans.ipynb` — кластеризация KMeans.
 
 - `KNeighbors.ipynb` — классификация с использованием K ближайших соседей.
 
